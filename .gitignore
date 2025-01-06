@@ -73,4 +73,4 @@ dist
 public
 
 # vue files
-*.vue
+# *.vue
